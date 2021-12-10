@@ -5,7 +5,7 @@ A fun project just to get myself acquainted with Generative Adversarial Networks
 
 ## Knowledge Gained
 1. Difference between Generator and Discrimantor networks and how they work.
-2. Working of DCGAN and its architecture.
+2. Working of DCGAN and its architecture and training method used in WGAN and WGAN-GP.
 3. Training GANs is different from other Convolution Models. Here, discriminator and generator must be equally good.
 
 ## Result
